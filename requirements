@@ -1,0 +1,4 @@
+flask
+gunicorn
+flask-cors
+# any other packages you use
